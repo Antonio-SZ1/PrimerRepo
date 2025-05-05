@@ -3,4 +3,4 @@ Mi primer repositorio
 
 -Mi primera contribucion local para GitHub
 
--Uu commit mas desde GitHub
+-Un commit mas desde GitHub
